@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kyrashup/Api-react/static/css/main.fd34bdf0.css",
+    "main.js": "/Kyrashup/Api-react/static/js/main.cd45819b.js",
+    "index.html": "/Kyrashup/Api-react/index.html",
+    "main.fd34bdf0.css.map": "/Kyrashup/Api-react/static/css/main.fd34bdf0.css.map",
+    "main.cd45819b.js.map": "/Kyrashup/Api-react/static/js/main.cd45819b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd34bdf0.css",
+    "static/js/main.cd45819b.js"
+  ]
+}
